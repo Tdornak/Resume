@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 23, 2014, 1:24:48 PM
+    Author     : Tim
+*/
+
+h3 {
+    font-weight: bold;
+    background-color: grey;
+}
+
+#ContactInfo {
+    text-align: center;
+}
+
+.leftClass, .rightClass {
+    float: left;
+    width: 50%;
+    background-color: white;
+}
+
